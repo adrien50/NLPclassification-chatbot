@@ -1,3 +1,8 @@
+# What exactly is a chatbot?
+
+A chatbot is an artificial intelligence (AI) software that can simulate a conversation (or a chat) with a user in natural language through messaging applications, websites, mobile apps or through the telephone.
+Why are chatbots important? A chatbot is often described as one of the most advanced and promising expressions of interaction between humans and machines. However, from a technological point of view, a chatbot only represents the natural evolution of a Question Answering system leveraging Natural Language Processing (NLP). Formulating responses to questions in natural language is one of the most typical Examples of Natural Language Processing applied in various enterprises’ end-use applications.
+
 # Problem Statement
 
 Human language is astoundingly complex and diverse. When we write, we often misspell or abbreviate words, or omit punctuation. There is a lot of unstructured data around us. Natural language processing helps computers communicate with humans in their own language and scales other language-related tasks. NLP makes it possible for computers to read text, interpret it, measure sentiment and determine which parts are important.
